@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c3ec" />
+      <stop offset="100%" stop-color="#007a96" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <!-- Background with subtle border -->
+  <rect width="512" height="512" rx="112" fill="#0b1318" />
+  <circle cx="256" cy="256" r="210" fill="url(#metroGrad)" filter="url(#shadow)" />
+  
+  <!-- Train Front Stylized Icon -->
+  <rect x="156" y="130" width="200" height="230" rx="36" fill="#ffffff" />
+  
+  <!-- Windshield with Skyblue / Rapid Red accent -->
+  <rect x="176" y="155" width="160" height="85" rx="16" fill="#0b1720" />
+  <rect x="186" y="165" width="140" height="20" rx="6" fill="#ef4444" opacity="0.9" />
+  
+  <!-- Headlights -->
+  <circle cx="196" cy="305" r="16" fill="#fbbf24" />
+  <circle cx="316" cy="305" r="16" fill="#fbbf24" />
+  
+  <!-- Metro Emblem / Center T-Bar -->
+  <rect x="236" y="270" width="40" height="8" rx="4" fill="#009bbf" />
+  <rect x="226" y="295" width="60" height="20" rx="6" fill="#e2e8f0" />
+  <text x="256" y="310" font-family="-apple-system, sans-serif" font-size="12" font-weight="900" fill="#0f172a" text-anchor="middle">KIBA</text>
+
+  <!-- Track / Base -->
+  <rect x="170" y="380" width="172" height="14" rx="7" fill="#ffffff" opacity="0.85" />
+  <line x1="200" y1="394" x2="185" y2="425" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity="0.8" />
+  <line x1="312" y1="394" x2="327" y2="425" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity="0.8" />
+  <line x1="160" y1="425" x2="352" y2="425" stroke="#ffffff" stroke-width="14" stroke-linecap="round" opacity="0.8" />
+</svg>

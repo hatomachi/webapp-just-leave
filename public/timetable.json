@@ -1,0 +1,5565 @@
+{
+  "station": "木場",
+  "direction": "西船橋・東葉勝田台方面",
+  "updatedAt": "2026-10-01",
+  "schedules": {
+    "weekday": [
+      {
+        "hour": 5,
+        "minute": 28,
+        "timeStr": "05:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 39,
+        "timeStr": "05:39",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 49,
+        "timeStr": "05:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 1,
+        "timeStr": "06:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 11,
+        "timeStr": "06:11",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 19,
+        "timeStr": "06:19",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 27,
+        "timeStr": "06:27",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 33,
+        "timeStr": "06:33",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 38,
+        "timeStr": "06:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 45,
+        "timeStr": "06:45",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 48,
+        "timeStr": "06:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 54,
+        "timeStr": "06:54",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 0,
+        "timeStr": "07:00",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 6,
+        "timeStr": "07:06",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 11,
+        "timeStr": "07:11",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 15,
+        "timeStr": "07:15",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 19,
+        "timeStr": "07:19",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 22,
+        "timeStr": "07:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 26,
+        "timeStr": "07:26",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 29,
+        "timeStr": "07:29",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 32,
+        "timeStr": "07:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 35,
+        "timeStr": "07:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 38,
+        "timeStr": "07:38",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 40,
+        "timeStr": "07:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 7,
+        "minute": 43,
+        "timeStr": "07:43",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 47,
+        "timeStr": "07:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 7,
+        "minute": 50,
+        "timeStr": "07:50",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 53,
+        "timeStr": "07:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 7,
+        "minute": 56,
+        "timeStr": "07:56",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 7,
+        "minute": 59,
+        "timeStr": "07:59",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 1,
+        "timeStr": "08:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 4,
+        "timeStr": "08:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 8,
+        "minute": 7,
+        "timeStr": "08:07",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 10,
+        "timeStr": "08:10",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 14,
+        "timeStr": "08:14",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 8,
+        "minute": 17,
+        "timeStr": "08:17",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 20,
+        "timeStr": "08:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 24,
+        "timeStr": "08:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 28,
+        "timeStr": "08:28",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 30,
+        "timeStr": "08:30",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 8,
+        "minute": 33,
+        "timeStr": "08:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "八千代緑が丘"
+      },
+      {
+        "hour": 8,
+        "minute": 35,
+        "timeStr": "08:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 38,
+        "timeStr": "08:38",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 41,
+        "timeStr": "08:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 8,
+        "minute": 44,
+        "timeStr": "08:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 47,
+        "timeStr": "08:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 50,
+        "timeStr": "08:50",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 53,
+        "timeStr": "08:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 8,
+        "minute": 55,
+        "timeStr": "08:55",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 58,
+        "timeStr": "08:58",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 0,
+        "timeStr": "09:00",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 9,
+        "minute": 3,
+        "timeStr": "09:03",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 9,
+        "minute": 5,
+        "timeStr": "09:05",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 7,
+        "timeStr": "09:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 10,
+        "timeStr": "09:10",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "八千代緑が丘"
+      },
+      {
+        "hour": 9,
+        "minute": 12,
+        "timeStr": "09:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 15,
+        "timeStr": "09:15",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 18,
+        "timeStr": "09:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 21,
+        "timeStr": "09:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 9,
+        "minute": 23,
+        "timeStr": "09:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 26,
+        "timeStr": "09:26",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 28,
+        "timeStr": "09:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 31,
+        "timeStr": "09:31",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 9,
+        "minute": 34,
+        "timeStr": "09:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 37,
+        "timeStr": "09:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 9,
+        "minute": 40,
+        "timeStr": "09:40",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 44,
+        "timeStr": "09:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 9,
+        "minute": 46,
+        "timeStr": "09:46",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 9,
+        "minute": 49,
+        "timeStr": "09:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 52,
+        "timeStr": "09:52",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 54,
+        "timeStr": "09:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 9,
+        "minute": 56,
+        "timeStr": "09:56",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 59,
+        "timeStr": "09:59",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 10,
+        "minute": 1,
+        "timeStr": "10:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 3,
+        "timeStr": "10:03",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 6,
+        "timeStr": "10:06",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 8,
+        "timeStr": "10:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 11,
+        "timeStr": "10:11",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 13,
+        "timeStr": "10:13",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 16,
+        "timeStr": "10:16",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 10,
+        "minute": 18,
+        "timeStr": "10:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 20,
+        "timeStr": "10:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 23,
+        "timeStr": "10:23",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 25,
+        "timeStr": "10:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 27,
+        "timeStr": "10:27",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 10,
+        "minute": 30,
+        "timeStr": "10:30",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 32,
+        "timeStr": "10:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 35,
+        "timeStr": "10:35",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 38,
+        "timeStr": "10:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 41,
+        "timeStr": "10:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 45,
+        "timeStr": "10:45",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 49,
+        "timeStr": "10:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 10,
+        "minute": 52,
+        "timeStr": "10:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 55,
+        "timeStr": "10:55",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      },
+      {
+        "hour": 10,
+        "minute": 59,
+        "timeStr": "10:59",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 3,
+        "timeStr": "11:03",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 8,
+        "timeStr": "11:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 12,
+        "timeStr": "11:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 17,
+        "timeStr": "11:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 22,
+        "timeStr": "11:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 27,
+        "timeStr": "11:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 32,
+        "timeStr": "11:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 37,
+        "timeStr": "11:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 42,
+        "timeStr": "11:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 47,
+        "timeStr": "11:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 52,
+        "timeStr": "11:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 57,
+        "timeStr": "11:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 2,
+        "timeStr": "12:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 7,
+        "timeStr": "12:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 12,
+        "timeStr": "12:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 17,
+        "timeStr": "12:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 22,
+        "timeStr": "12:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 27,
+        "timeStr": "12:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 32,
+        "timeStr": "12:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 37,
+        "timeStr": "12:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 42,
+        "timeStr": "12:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 47,
+        "timeStr": "12:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 52,
+        "timeStr": "12:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 57,
+        "timeStr": "12:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 2,
+        "timeStr": "13:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 7,
+        "timeStr": "13:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 12,
+        "timeStr": "13:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 17,
+        "timeStr": "13:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 22,
+        "timeStr": "13:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 27,
+        "timeStr": "13:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 32,
+        "timeStr": "13:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 37,
+        "timeStr": "13:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 42,
+        "timeStr": "13:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 47,
+        "timeStr": "13:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 52,
+        "timeStr": "13:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 57,
+        "timeStr": "13:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 2,
+        "timeStr": "14:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 7,
+        "timeStr": "14:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 12,
+        "timeStr": "14:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 17,
+        "timeStr": "14:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 22,
+        "timeStr": "14:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 27,
+        "timeStr": "14:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 32,
+        "timeStr": "14:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 37,
+        "timeStr": "14:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 42,
+        "timeStr": "14:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 47,
+        "timeStr": "14:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 52,
+        "timeStr": "14:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 57,
+        "timeStr": "14:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 2,
+        "timeStr": "15:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 7,
+        "timeStr": "15:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 12,
+        "timeStr": "15:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 17,
+        "timeStr": "15:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 22,
+        "timeStr": "15:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 27,
+        "timeStr": "15:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 32,
+        "timeStr": "15:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 37,
+        "timeStr": "15:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 42,
+        "timeStr": "15:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 47,
+        "timeStr": "15:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 52,
+        "timeStr": "15:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 57,
+        "timeStr": "15:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 2,
+        "timeStr": "16:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 7,
+        "timeStr": "16:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 12,
+        "timeStr": "16:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 17,
+        "timeStr": "16:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 22,
+        "timeStr": "16:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 27,
+        "timeStr": "16:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 32,
+        "timeStr": "16:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 37,
+        "timeStr": "16:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 41,
+        "timeStr": "16:41",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 45,
+        "timeStr": "16:45",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 49,
+        "timeStr": "16:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 52,
+        "timeStr": "16:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 57,
+        "timeStr": "16:57",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 1,
+        "timeStr": "17:01",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 5,
+        "timeStr": "17:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 8,
+        "timeStr": "17:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 17,
+        "minute": 12,
+        "timeStr": "17:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 16,
+        "timeStr": "17:16",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 20,
+        "timeStr": "17:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 17,
+        "minute": 24,
+        "timeStr": "17:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 27,
+        "timeStr": "17:27",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 17,
+        "minute": 31,
+        "timeStr": "17:31",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 34,
+        "timeStr": "17:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 37,
+        "timeStr": "17:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 41,
+        "timeStr": "17:41",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 43,
+        "timeStr": "17:43",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 47,
+        "timeStr": "17:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 51,
+        "timeStr": "17:51",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 17,
+        "minute": 54,
+        "timeStr": "17:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 58,
+        "timeStr": "17:58",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 1,
+        "timeStr": "18:01",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 18,
+        "minute": 4,
+        "timeStr": "18:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 7,
+        "timeStr": "18:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 10,
+        "timeStr": "18:10",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 13,
+        "timeStr": "18:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 16,
+        "timeStr": "18:16",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 19,
+        "timeStr": "18:19",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 22,
+        "timeStr": "18:22",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 18,
+        "minute": 25,
+        "timeStr": "18:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 28,
+        "timeStr": "18:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 31,
+        "timeStr": "18:31",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 18,
+        "minute": 34,
+        "timeStr": "18:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 37,
+        "timeStr": "18:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 18,
+        "minute": 40,
+        "timeStr": "18:40",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 43,
+        "timeStr": "18:43",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 47,
+        "timeStr": "18:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 50,
+        "timeStr": "18:50",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 53,
+        "timeStr": "18:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "津田沼"
+      },
+      {
+        "hour": 18,
+        "minute": 57,
+        "timeStr": "18:57",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 1,
+        "timeStr": "19:01",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 4,
+        "timeStr": "19:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 7,
+        "timeStr": "19:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 10,
+        "timeStr": "19:10",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 13,
+        "timeStr": "19:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 16,
+        "timeStr": "19:16",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 19,
+        "timeStr": "19:19",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 22,
+        "timeStr": "19:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 26,
+        "timeStr": "19:26",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 30,
+        "timeStr": "19:30",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 33,
+        "timeStr": "19:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 35,
+        "timeStr": "19:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 39,
+        "timeStr": "19:39",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 42,
+        "timeStr": "19:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 45,
+        "timeStr": "19:45",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 48,
+        "timeStr": "19:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 52,
+        "timeStr": "19:52",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 54,
+        "timeStr": "19:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 58,
+        "timeStr": "19:58",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 2,
+        "timeStr": "20:02",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 5,
+        "timeStr": "20:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 9,
+        "timeStr": "20:09",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 12,
+        "timeStr": "20:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 16,
+        "timeStr": "20:16",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 20,
+        "timeStr": "20:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 25,
+        "timeStr": "20:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 28,
+        "timeStr": "20:28",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 31,
+        "timeStr": "20:31",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 35,
+        "timeStr": "20:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 39,
+        "timeStr": "20:39",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 42,
+        "timeStr": "20:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 45,
+        "timeStr": "20:45",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 48,
+        "timeStr": "20:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 52,
+        "timeStr": "20:52",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 56,
+        "timeStr": "20:56",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 1,
+        "timeStr": "21:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 4,
+        "timeStr": "21:04",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 8,
+        "timeStr": "21:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 12,
+        "timeStr": "21:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 16,
+        "timeStr": "21:16",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 21,
+        "timeStr": "21:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 26,
+        "timeStr": "21:26",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 30,
+        "timeStr": "21:30",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 34,
+        "timeStr": "21:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 38,
+        "timeStr": "21:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 42,
+        "timeStr": "21:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 46,
+        "timeStr": "21:46",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 49,
+        "timeStr": "21:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 52,
+        "timeStr": "21:52",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 56,
+        "timeStr": "21:56",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 0,
+        "timeStr": "22:00",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 4,
+        "timeStr": "22:04",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 8,
+        "timeStr": "22:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 13,
+        "timeStr": "22:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 17,
+        "timeStr": "22:17",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 20,
+        "timeStr": "22:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 24,
+        "timeStr": "22:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 28,
+        "timeStr": "22:28",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 33,
+        "timeStr": "22:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 37,
+        "timeStr": "22:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 41,
+        "timeStr": "22:41",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 44,
+        "timeStr": "22:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 49,
+        "timeStr": "22:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 54,
+        "timeStr": "22:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 57,
+        "timeStr": "22:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 1,
+        "timeStr": "23:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 7,
+        "timeStr": "23:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 12,
+        "timeStr": "23:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 17,
+        "timeStr": "23:17",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 21,
+        "timeStr": "23:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 25,
+        "timeStr": "23:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 31,
+        "timeStr": "23:31",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 36,
+        "timeStr": "23:36",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 40,
+        "timeStr": "23:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 44,
+        "timeStr": "23:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 49,
+        "timeStr": "23:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 53,
+        "timeStr": "23:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 58,
+        "timeStr": "23:58",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 24,
+        "minute": 2,
+        "timeStr": "24:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 24,
+        "minute": 8,
+        "timeStr": "24:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 24,
+        "minute": 13,
+        "timeStr": "24:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 24,
+        "minute": 21,
+        "timeStr": "24:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      }
+    ],
+    "saturday": [
+      {
+        "hour": 5,
+        "minute": 28,
+        "timeStr": "05:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 41,
+        "timeStr": "05:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 52,
+        "timeStr": "05:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 1,
+        "timeStr": "06:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 12,
+        "timeStr": "06:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 20,
+        "timeStr": "06:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 28,
+        "timeStr": "06:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 34,
+        "timeStr": "06:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 40,
+        "timeStr": "06:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 49,
+        "timeStr": "06:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 57,
+        "timeStr": "06:57",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 5,
+        "timeStr": "07:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 14,
+        "timeStr": "07:14",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 23,
+        "timeStr": "07:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 29,
+        "timeStr": "07:29",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 36,
+        "timeStr": "07:36",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 42,
+        "timeStr": "07:42",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 49,
+        "timeStr": "07:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 54,
+        "timeStr": "07:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 0,
+        "timeStr": "08:00",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 6,
+        "timeStr": "08:06",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 13,
+        "timeStr": "08:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 18,
+        "timeStr": "08:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 26,
+        "timeStr": "08:26",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 32,
+        "timeStr": "08:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 38,
+        "timeStr": "08:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 41,
+        "timeStr": "08:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 8,
+        "minute": 44,
+        "timeStr": "08:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 50,
+        "timeStr": "08:50",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 54,
+        "timeStr": "08:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 59,
+        "timeStr": "08:59",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 4,
+        "timeStr": "09:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 8,
+        "timeStr": "09:08",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 12,
+        "timeStr": "09:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 16,
+        "timeStr": "09:16",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 21,
+        "timeStr": "09:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 25,
+        "timeStr": "09:25",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 28,
+        "timeStr": "09:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 33,
+        "timeStr": "09:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 38,
+        "timeStr": "09:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 43,
+        "timeStr": "09:43",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 48,
+        "timeStr": "09:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 52,
+        "timeStr": "09:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 57,
+        "timeStr": "09:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 2,
+        "timeStr": "10:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 7,
+        "timeStr": "10:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 12,
+        "timeStr": "10:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 17,
+        "timeStr": "10:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 22,
+        "timeStr": "10:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 27,
+        "timeStr": "10:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 32,
+        "timeStr": "10:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 37,
+        "timeStr": "10:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 42,
+        "timeStr": "10:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 47,
+        "timeStr": "10:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 52,
+        "timeStr": "10:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 57,
+        "timeStr": "10:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 2,
+        "timeStr": "11:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 7,
+        "timeStr": "11:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 12,
+        "timeStr": "11:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 17,
+        "timeStr": "11:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 22,
+        "timeStr": "11:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 27,
+        "timeStr": "11:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 32,
+        "timeStr": "11:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 37,
+        "timeStr": "11:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 42,
+        "timeStr": "11:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 47,
+        "timeStr": "11:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 52,
+        "timeStr": "11:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 57,
+        "timeStr": "11:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 2,
+        "timeStr": "12:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 7,
+        "timeStr": "12:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 12,
+        "timeStr": "12:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 17,
+        "timeStr": "12:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 22,
+        "timeStr": "12:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 27,
+        "timeStr": "12:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 32,
+        "timeStr": "12:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 37,
+        "timeStr": "12:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 42,
+        "timeStr": "12:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 47,
+        "timeStr": "12:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 52,
+        "timeStr": "12:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 57,
+        "timeStr": "12:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 2,
+        "timeStr": "13:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 7,
+        "timeStr": "13:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 12,
+        "timeStr": "13:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 17,
+        "timeStr": "13:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 22,
+        "timeStr": "13:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 27,
+        "timeStr": "13:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 32,
+        "timeStr": "13:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 37,
+        "timeStr": "13:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 42,
+        "timeStr": "13:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 47,
+        "timeStr": "13:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 52,
+        "timeStr": "13:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 57,
+        "timeStr": "13:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 2,
+        "timeStr": "14:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 7,
+        "timeStr": "14:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 12,
+        "timeStr": "14:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 17,
+        "timeStr": "14:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 22,
+        "timeStr": "14:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 27,
+        "timeStr": "14:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 32,
+        "timeStr": "14:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 37,
+        "timeStr": "14:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 42,
+        "timeStr": "14:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 47,
+        "timeStr": "14:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 52,
+        "timeStr": "14:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 57,
+        "timeStr": "14:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 2,
+        "timeStr": "15:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 7,
+        "timeStr": "15:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 12,
+        "timeStr": "15:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 17,
+        "timeStr": "15:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 22,
+        "timeStr": "15:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 27,
+        "timeStr": "15:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 32,
+        "timeStr": "15:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 37,
+        "timeStr": "15:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 42,
+        "timeStr": "15:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 47,
+        "timeStr": "15:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 52,
+        "timeStr": "15:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 57,
+        "timeStr": "15:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 2,
+        "timeStr": "16:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 7,
+        "timeStr": "16:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 12,
+        "timeStr": "16:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 17,
+        "timeStr": "16:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 22,
+        "timeStr": "16:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 27,
+        "timeStr": "16:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 32,
+        "timeStr": "16:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 37,
+        "timeStr": "16:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 42,
+        "timeStr": "16:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 47,
+        "timeStr": "16:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 52,
+        "timeStr": "16:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 57,
+        "timeStr": "16:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 2,
+        "timeStr": "17:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 7,
+        "timeStr": "17:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 12,
+        "timeStr": "17:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 17,
+        "timeStr": "17:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 22,
+        "timeStr": "17:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 27,
+        "timeStr": "17:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 32,
+        "timeStr": "17:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 37,
+        "timeStr": "17:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 42,
+        "timeStr": "17:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 47,
+        "timeStr": "17:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 52,
+        "timeStr": "17:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 57,
+        "timeStr": "17:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 2,
+        "timeStr": "18:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 7,
+        "timeStr": "18:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 12,
+        "timeStr": "18:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 17,
+        "timeStr": "18:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 22,
+        "timeStr": "18:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 27,
+        "timeStr": "18:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 32,
+        "timeStr": "18:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 37,
+        "timeStr": "18:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 42,
+        "timeStr": "18:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 47,
+        "timeStr": "18:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 53,
+        "timeStr": "18:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 58,
+        "timeStr": "18:58",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 3,
+        "timeStr": "19:03",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 8,
+        "timeStr": "19:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 13,
+        "timeStr": "19:13",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 18,
+        "timeStr": "19:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 23,
+        "timeStr": "19:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 28,
+        "timeStr": "19:28",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 33,
+        "timeStr": "19:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 38,
+        "timeStr": "19:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 43,
+        "timeStr": "19:43",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 48,
+        "timeStr": "19:48",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 53,
+        "timeStr": "19:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 58,
+        "timeStr": "19:58",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 4,
+        "timeStr": "20:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 9,
+        "timeStr": "20:09",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 14,
+        "timeStr": "20:14",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 20,
+        "timeStr": "20:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 25,
+        "timeStr": "20:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 31,
+        "timeStr": "20:31",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 36,
+        "timeStr": "20:36",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 42,
+        "timeStr": "20:42",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 48,
+        "timeStr": "20:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 54,
+        "timeStr": "20:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 0,
+        "timeStr": "21:00",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 5,
+        "timeStr": "21:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 11,
+        "timeStr": "21:11",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 17,
+        "timeStr": "21:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 23,
+        "timeStr": "21:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 29,
+        "timeStr": "21:29",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 35,
+        "timeStr": "21:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 40,
+        "timeStr": "21:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 47,
+        "timeStr": "21:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 53,
+        "timeStr": "21:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 58,
+        "timeStr": "21:58",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 4,
+        "timeStr": "22:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 10,
+        "timeStr": "22:10",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 17,
+        "timeStr": "22:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 24,
+        "timeStr": "22:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 31,
+        "timeStr": "22:31",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 38,
+        "timeStr": "22:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 46,
+        "timeStr": "22:46",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 54,
+        "timeStr": "22:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 1,
+        "timeStr": "23:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 9,
+        "timeStr": "23:09",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 17,
+        "timeStr": "23:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 24,
+        "timeStr": "23:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 32,
+        "timeStr": "23:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 40,
+        "timeStr": "23:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 47,
+        "timeStr": "23:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 55,
+        "timeStr": "23:55",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 24,
+        "minute": 1,
+        "timeStr": "24:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 24,
+        "minute": 8,
+        "timeStr": "24:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 24,
+        "minute": 21,
+        "timeStr": "24:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      }
+    ],
+    "holiday": [
+      {
+        "hour": 5,
+        "minute": 28,
+        "timeStr": "05:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 41,
+        "timeStr": "05:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 5,
+        "minute": 52,
+        "timeStr": "05:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 1,
+        "timeStr": "06:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 12,
+        "timeStr": "06:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 20,
+        "timeStr": "06:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 28,
+        "timeStr": "06:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 34,
+        "timeStr": "06:34",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 40,
+        "timeStr": "06:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 6,
+        "minute": 49,
+        "timeStr": "06:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 6,
+        "minute": 57,
+        "timeStr": "06:57",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 5,
+        "timeStr": "07:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 14,
+        "timeStr": "07:14",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 23,
+        "timeStr": "07:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 29,
+        "timeStr": "07:29",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 36,
+        "timeStr": "07:36",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 7,
+        "minute": 42,
+        "timeStr": "07:42",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 49,
+        "timeStr": "07:49",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 7,
+        "minute": 54,
+        "timeStr": "07:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 0,
+        "timeStr": "08:00",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 6,
+        "timeStr": "08:06",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 13,
+        "timeStr": "08:13",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 18,
+        "timeStr": "08:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 26,
+        "timeStr": "08:26",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 32,
+        "timeStr": "08:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 38,
+        "timeStr": "08:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 41,
+        "timeStr": "08:41",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東陽町"
+      },
+      {
+        "hour": 8,
+        "minute": 44,
+        "timeStr": "08:44",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 50,
+        "timeStr": "08:50",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 8,
+        "minute": 54,
+        "timeStr": "08:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 8,
+        "minute": 59,
+        "timeStr": "08:59",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 4,
+        "timeStr": "09:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 8,
+        "timeStr": "09:08",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 12,
+        "timeStr": "09:12",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 16,
+        "timeStr": "09:16",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 21,
+        "timeStr": "09:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 25,
+        "timeStr": "09:25",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 28,
+        "timeStr": "09:28",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 33,
+        "timeStr": "09:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 38,
+        "timeStr": "09:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 43,
+        "timeStr": "09:43",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 9,
+        "minute": 48,
+        "timeStr": "09:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 52,
+        "timeStr": "09:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 9,
+        "minute": 57,
+        "timeStr": "09:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 2,
+        "timeStr": "10:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 7,
+        "timeStr": "10:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 12,
+        "timeStr": "10:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 17,
+        "timeStr": "10:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 22,
+        "timeStr": "10:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 27,
+        "timeStr": "10:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 32,
+        "timeStr": "10:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 37,
+        "timeStr": "10:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 42,
+        "timeStr": "10:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 10,
+        "minute": 47,
+        "timeStr": "10:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 52,
+        "timeStr": "10:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 10,
+        "minute": 57,
+        "timeStr": "10:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 2,
+        "timeStr": "11:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 7,
+        "timeStr": "11:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 12,
+        "timeStr": "11:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 17,
+        "timeStr": "11:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 22,
+        "timeStr": "11:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 27,
+        "timeStr": "11:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 32,
+        "timeStr": "11:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 37,
+        "timeStr": "11:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 42,
+        "timeStr": "11:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 11,
+        "minute": 47,
+        "timeStr": "11:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 52,
+        "timeStr": "11:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 11,
+        "minute": 57,
+        "timeStr": "11:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 2,
+        "timeStr": "12:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 7,
+        "timeStr": "12:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 12,
+        "timeStr": "12:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 17,
+        "timeStr": "12:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 22,
+        "timeStr": "12:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 27,
+        "timeStr": "12:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 32,
+        "timeStr": "12:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 37,
+        "timeStr": "12:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 42,
+        "timeStr": "12:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 12,
+        "minute": 47,
+        "timeStr": "12:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 52,
+        "timeStr": "12:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 12,
+        "minute": 57,
+        "timeStr": "12:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 2,
+        "timeStr": "13:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 7,
+        "timeStr": "13:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 12,
+        "timeStr": "13:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 17,
+        "timeStr": "13:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 22,
+        "timeStr": "13:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 27,
+        "timeStr": "13:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 32,
+        "timeStr": "13:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 37,
+        "timeStr": "13:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 42,
+        "timeStr": "13:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 13,
+        "minute": 47,
+        "timeStr": "13:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 52,
+        "timeStr": "13:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 13,
+        "minute": 57,
+        "timeStr": "13:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 2,
+        "timeStr": "14:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 7,
+        "timeStr": "14:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 12,
+        "timeStr": "14:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 17,
+        "timeStr": "14:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 22,
+        "timeStr": "14:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 27,
+        "timeStr": "14:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 32,
+        "timeStr": "14:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 37,
+        "timeStr": "14:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 42,
+        "timeStr": "14:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 14,
+        "minute": 47,
+        "timeStr": "14:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 52,
+        "timeStr": "14:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 14,
+        "minute": 57,
+        "timeStr": "14:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 2,
+        "timeStr": "15:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 7,
+        "timeStr": "15:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 12,
+        "timeStr": "15:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 17,
+        "timeStr": "15:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 22,
+        "timeStr": "15:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 27,
+        "timeStr": "15:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 32,
+        "timeStr": "15:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 37,
+        "timeStr": "15:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 42,
+        "timeStr": "15:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 15,
+        "minute": 47,
+        "timeStr": "15:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 52,
+        "timeStr": "15:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 15,
+        "minute": 57,
+        "timeStr": "15:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 2,
+        "timeStr": "16:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 7,
+        "timeStr": "16:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 12,
+        "timeStr": "16:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 17,
+        "timeStr": "16:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 22,
+        "timeStr": "16:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 27,
+        "timeStr": "16:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 32,
+        "timeStr": "16:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 37,
+        "timeStr": "16:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 42,
+        "timeStr": "16:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 16,
+        "minute": 47,
+        "timeStr": "16:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 52,
+        "timeStr": "16:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 16,
+        "minute": 57,
+        "timeStr": "16:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 2,
+        "timeStr": "17:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 7,
+        "timeStr": "17:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 12,
+        "timeStr": "17:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 17,
+        "timeStr": "17:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 22,
+        "timeStr": "17:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 27,
+        "timeStr": "17:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 32,
+        "timeStr": "17:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 37,
+        "timeStr": "17:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 42,
+        "timeStr": "17:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 17,
+        "minute": 47,
+        "timeStr": "17:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 52,
+        "timeStr": "17:52",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 17,
+        "minute": 57,
+        "timeStr": "17:57",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 2,
+        "timeStr": "18:02",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 7,
+        "timeStr": "18:07",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 12,
+        "timeStr": "18:12",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 17,
+        "timeStr": "18:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 22,
+        "timeStr": "18:22",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 27,
+        "timeStr": "18:27",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 32,
+        "timeStr": "18:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 37,
+        "timeStr": "18:37",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 42,
+        "timeStr": "18:42",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 18,
+        "minute": 47,
+        "timeStr": "18:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 53,
+        "timeStr": "18:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 18,
+        "minute": 58,
+        "timeStr": "18:58",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 3,
+        "timeStr": "19:03",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 8,
+        "timeStr": "19:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 13,
+        "timeStr": "19:13",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 18,
+        "timeStr": "19:18",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 23,
+        "timeStr": "19:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 28,
+        "timeStr": "19:28",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 33,
+        "timeStr": "19:33",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 38,
+        "timeStr": "19:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 43,
+        "timeStr": "19:43",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 19,
+        "minute": 48,
+        "timeStr": "19:48",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 53,
+        "timeStr": "19:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 19,
+        "minute": 58,
+        "timeStr": "19:58",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 4,
+        "timeStr": "20:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 9,
+        "timeStr": "20:09",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 14,
+        "timeStr": "20:14",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 20,
+        "timeStr": "20:20",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 25,
+        "timeStr": "20:25",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 31,
+        "timeStr": "20:31",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 36,
+        "timeStr": "20:36",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 42,
+        "timeStr": "20:42",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 20,
+        "minute": 48,
+        "timeStr": "20:48",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 20,
+        "minute": 54,
+        "timeStr": "20:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 0,
+        "timeStr": "21:00",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 5,
+        "timeStr": "21:05",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 11,
+        "timeStr": "21:11",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 17,
+        "timeStr": "21:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 23,
+        "timeStr": "21:23",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 29,
+        "timeStr": "21:29",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 35,
+        "timeStr": "21:35",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 40,
+        "timeStr": "21:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 21,
+        "minute": 47,
+        "timeStr": "21:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 53,
+        "timeStr": "21:53",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 21,
+        "minute": 58,
+        "timeStr": "21:58",
+        "kind": "快速",
+        "isRapid": true,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 4,
+        "timeStr": "22:04",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 10,
+        "timeStr": "22:10",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 17,
+        "timeStr": "22:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 24,
+        "timeStr": "22:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 31,
+        "timeStr": "22:31",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 38,
+        "timeStr": "22:38",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 22,
+        "minute": 46,
+        "timeStr": "22:46",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 22,
+        "minute": 54,
+        "timeStr": "22:54",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 1,
+        "timeStr": "23:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 9,
+        "timeStr": "23:09",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 17,
+        "timeStr": "23:17",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 24,
+        "timeStr": "23:24",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 32,
+        "timeStr": "23:32",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 40,
+        "timeStr": "23:40",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 23,
+        "minute": 47,
+        "timeStr": "23:47",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 23,
+        "minute": 55,
+        "timeStr": "23:55",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 24,
+        "minute": 1,
+        "timeStr": "24:01",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "西船橋"
+      },
+      {
+        "hour": 24,
+        "minute": 8,
+        "timeStr": "24:08",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "東葉勝田台"
+      },
+      {
+        "hour": 24,
+        "minute": 21,
+        "timeStr": "24:21",
+        "kind": "各駅停車",
+        "isRapid": false,
+        "destination": "妙典"
+      }
+    ]
+  }
+}
